@@ -15,7 +15,9 @@ function Greeting() {
 
   return (
     <div className="container">
+
       <h1>Simple React App</h1>
+      <h2>Hello World</h2>
       <input
         type="text"
         placeholder="Enter your name"
